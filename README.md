@@ -45,6 +45,9 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781800200319_ColorImages.pdf).
 
+## Errata
+* Page 151: "With this, you will be able to add/modify business logins in the Odoo module." _should be_ "With this, you will be able to add/modify business logic in the Odoo module."
+
 ### Related products
 * The Art of CRM [[Packt]](https://www.packtpub.com/product/the-art-of-crm/9781789538922?utm_source=github&utm_medium=repository&utm_campaign=9781789538922) [[Amazon]](https://www.amazon.com/dp/1789538920)
 
@@ -69,3 +72,7 @@ He has been working with Odoo (formerly OpenERP) since 2010, is an active contri
 [Odoo 11 Development Cookbook - Second Edition](https://www.packtpub.com/application-development/odoo-11-development-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788471817)
 
 [Odoo Development Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/odoo-development-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781785883644)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781800200319">https://packt.link/free-ebook/9781800200319 </a> </p>
